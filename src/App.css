@@ -1,0 +1,38 @@
+.page {
+  height: 100vh;
+  background-color: #512da8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Profil {
+  
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 50px;
+  font-weight: bold;
+  background-color:white;
+}
+
+.visiblity-btn {
+  
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -150%);
+  background-color:white;
+  color: black;
+  font-size: 20px;
+  padding: 16px 30px;
+  border-radius: 15px;
+  text-align: center;
+
+  
+}
+.notice {
+  color: red;
+  font-size: 30px;
+}
+.photo {
+  display: block;
+  width: 150px;
+  
+}
